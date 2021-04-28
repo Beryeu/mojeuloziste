@@ -1,0 +1,1 @@
+def 1 range(cislo)
